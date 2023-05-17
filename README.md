@@ -1,5 +1,5 @@
 
-Download the latest release zip file from [https://github.com/Juul/extractor/releases/].
+Download the latest release zip file from [Releases](https://github.com/Juul/extractor/releases/).
 
 To use the extractor on Windows, simply unzip this file and then drag the recorded .ts file onto the extract.bat file. This should create the file output.pdf in the same directory.
 
